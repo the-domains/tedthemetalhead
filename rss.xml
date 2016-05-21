@@ -2,10 +2,16 @@
     <channel>
         <title><![CDATA[Ted the metalhead ]]></title>
         <description><![CDATA[Ted the metalhead ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tedthemetalhead/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 01:35:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 May 2016 02:41:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tedthemetalhead/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/Ted-the-Metalhead-163562810347800/</link>
+            <guid isPermaLink="false">5f253d76-d6bf-4322-8be7-26999f69199a</guid>
+            <pubDate>Sat, 21 May 2016 02:40:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.facebook.com/Ted-the-Metalhead-163562810347800/</link>
