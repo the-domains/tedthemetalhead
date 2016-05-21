@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ted the metalhead ]]></title>
+        <description><![CDATA[Ted the metalhead ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 21 May 2016 01:35:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/Ted-the-Metalhead-163562810347800/</link>
+            <guid isPermaLink="false">58d9e8b9-e950-4336-8e6e-4242c30b25f8</guid>
+            <pubDate>Sat, 21 May 2016 01:35:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
