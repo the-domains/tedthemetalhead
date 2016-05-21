@@ -1,0 +1,14 @@
+layout_spectrum: 0.9425349
+typography_spectrum: 0.1251342
+color:
+  saturation: 0.7539226
+  lightness: 0.5237274
+  brandStrength: 0.814535
+  rhythmicContrast: 0.1904857
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: 'Tedthemetalhead '
