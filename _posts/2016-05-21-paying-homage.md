@@ -1,11 +1,11 @@
 ---
 author: []
 title: 'Paying homage '
-dateModified: '2016-05-21T01:16:20.995Z'
-datePublished: '2016-05-21T01:23:02.240Z'
+dateModified: '2016-05-21T05:43:19.372Z'
+datePublished: '2016-05-21T05:43:19.421Z'
 description: 'Close to our homes near Seattle. Third Stone from the Sun, as Jimi might say. Happy to say-- finally we have a reasonable public memoir of this genius of a musician.'
-starred: true
 sourcePath: _posts/2016-05-21-paying-homage.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
