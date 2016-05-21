@@ -1,4 +1,3 @@
-layout_spectrum: 0.5269869598560035
 typography_spectrum: 0.6589720242191106
 color:
   saturation: 0.5920789609663188
@@ -11,4 +10,7 @@ color:
     - '#611427'
     - '#1D2326'
     - '#6A6A61'
+layout_spectrum: 0.5269869598560035
+logo: null
 name: 'Tedthemetalhead '
+title: Rock radio
